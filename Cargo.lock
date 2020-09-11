@@ -231,7 +231,6 @@ version = "0.1.0"
 dependencies = [
  "cortex-m",
  "cortex-m-rt",
- "nb",
  "panic-halt",
  "stm32l0 0.11.0",
  "stm32l0xx-hal",
