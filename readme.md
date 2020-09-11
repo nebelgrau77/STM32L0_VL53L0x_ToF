@@ -5,6 +5,7 @@ At the moment it's just reading the distance in single mode, and printing out to
 
 TO DO:
 * print the distance to an OLED display
+* use a timer to trigger measurements
 * react to the distance, e.g. turn the LED on/off
 
 
